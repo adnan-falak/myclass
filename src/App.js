@@ -46,6 +46,6 @@ function alsoDate() {
 	var showDate=date.toDateString();
   document.getElementById('date').innerText=showDate;
   
-  document.getElementById("date").innerHTML="Digigtal Clock By Adnan"
+  document.getElementById("date").innerHTML="Long Live Pakistan"
 }
 alsoDate();
